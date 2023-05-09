@@ -25,3 +25,5 @@ Corruption Perception, and Residual error.
 ###############################################################################
 
 Uploaded to the repo are all data sets used. Originally there were 3 data sets, but using SQL there was a 4th one created that combined and matched all 3.
+
+**Personal information is removed, I did not work on this project alone, I was joined by one other.**
