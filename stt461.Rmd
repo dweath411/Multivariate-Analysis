@@ -1,6 +1,6 @@
 ---
-title: "STT 461 Proj"
-author: "Derien Weatherspoon"
+title: "STT Proj"
+author: 
 date: "2023-04-18"
 output: pdf_document
 ---
@@ -9,28 +9,6 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Project Overview
-
-###############################################################################
-
-Explanation of the variables in the data set:
-
-- latitude, longitude: GPS Coordinates for a given country
-- country: Countries from different parts of the world
-- country_code: Abbreviations for countries
-- year: year in which happiness data was collected
-- value: GINI index value per country per year, ranging from 0 to 1
-- score: Happiness score, which is explained by the following: GDP per capita,
-Healthy Life Expectancy, Social support, Freedom to make life choices, Generosity,                
-Corruption Perception, and Residual error.
-- gdp: Gross Domestic Product 
-- support: Social support
-- life_expectancy: Life expectancy 
-- freedom: How free the citizens of a given country are to make life choices on their own
-- trust: How much trust the people have in their government
-- generosity: Generosity of the citizens/government
-
-###############################################################################
 
 ## Loading Packages
 
